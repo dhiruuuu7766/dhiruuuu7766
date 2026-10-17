@@ -66,3 +66,27 @@ A travel listing web application where users can explore destinations and discov
 <p align="center">
   <i>Keep Learning. Keep Building. Keep Growing. 🚀</i>
 </p>
+
+
+---
+
+## 🐍 My Contributions
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/dhiruuuu7766/dhiruuuu7766/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/dhiruuuu7766/dhiruuuu7766/output/github-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake Animation"
+      src="https://raw.githubusercontent.com/dhiruuuu7766/dhiruuuu7766/output/github-snake.svg"
+      width="100%"
+    />
+  </picture>
+</p>
+
